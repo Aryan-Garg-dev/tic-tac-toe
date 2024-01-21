@@ -1,9 +1,4 @@
 ## Classic Tic-Tac-Toe Game
-Certainly! Here's a short README file for the provided Tic Tac Toe game code:
-
----
-
-# Tic Tac Toe Game
 
 ## Overview
 
@@ -33,7 +28,7 @@ This is a simple implementation of the classic Tic Tac Toe game using the Python
 
 ## Dependencies
 
-- Python 3.x
+- Python 3.11
 - Tkinter library (standard library in Python)
 
 ## Notes

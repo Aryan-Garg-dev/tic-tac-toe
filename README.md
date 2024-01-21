@@ -12,7 +12,8 @@ This is a simple implementation of the classic Tic Tac Toe game using the Python
 - Win, Draw, and Play Again functionalities.
 - Simple and intuitive design.
 
-- ![image](https://github.com/Aryan-Garg-dev/tic-tac-toe/assets/148696092/e7a49308-77f7-4b9d-bdb1-9d105844132b)
+![Screenshot 2024-01-21 184300](https://github.com/Aryan-Garg-dev/tic-tac-toe/assets/148696092/07ac4525-b6c4-4286-9801-f1cf743aaaba)
+
 
 
 ## How to Play

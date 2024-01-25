@@ -39,8 +39,4 @@ This is a simple implementation of the classic Tic Tac Toe game using the Python
 
 - The computer's moves are randomized, providing a basic level of gameplay.
 
-Feel free to explore, modify, and enjoy the game!
 
----
-
-This README file gives users an overview of the Tic Tac Toe game, instructions on how to play, and information about the files and dependencies.
